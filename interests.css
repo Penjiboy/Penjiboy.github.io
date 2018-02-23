@@ -1,18 +1,8 @@
 body {
 	background-color: #000000;
-	/*
-	background-image: url("penjisuit2.jpg");
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: top right;
-	*/
 	color: #ffffff;
 	text-align: center;
 	font-family: "Lucida Console", Monospace;
-}
-
-div {
-
 }
 
 .nav_bar {
@@ -38,32 +28,26 @@ div {
 	font-size: xx-large;
 }
 
-.options_list {
+.interest_block {
+	border-style: double;
+	border-width: 1vw;
+	border-color: #b30000;
+	border-radius: 3vw;
+	margin: 2vh;
+}
+
+div.interest_title {
+	
+}
+
+h3.interest_title {
 	text-align: left;
-	align-items: center;
+	position: relative;
+	margin: 1vh 2vw;
 }
 
-.options_button {
-	background-color: #b30000;
-	color: #ffffff;
-	padding: 1vh 3vw;
-	font-size: 2vw;
-	border-width: 0.1vw;
-	border-radius: 1vw;
-	width: 15vw;
-	margin: 1vh;
-}
-
-.contact_head {
+.interest_description {
 	text-align: left;
-}
-
-.contact {
-	text-align: left;
-	margin: 1vh;
-}
-
-#LinkedIn {
-	color: #ffffff;
-	text-decoration: none;
+	position: relative;
+	left: 2vw;
 }

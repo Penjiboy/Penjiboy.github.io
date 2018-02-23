@@ -2,6 +2,7 @@ body {
 	background-color: #000000;
 	color: #ffffff;
 	text-align: center;
+	font-family: "Lucida Console", Monospace;
 }
 
 .nav_bar {
