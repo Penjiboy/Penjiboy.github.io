@@ -1,0 +1,70 @@
+body {
+	background-color: #000000;
+	color: #ffffff;
+	text-align: center;
+}
+
+.nav_bar {
+	background-color: #000000;
+	color: #ffffff;
+	font-size: #25px;
+	font-family: "Lucida Console", Monospace;
+}
+
+.nav_button {
+	background-color: #b30000;
+	color: #ffffff;
+	padding: 1vh 3vw;
+	font-size: 2vw;
+	border-width: 0.1vw;
+	border-radius: 1vw;
+	width: 15vw;
+
+}
+
+.title {
+	text-align: center;
+	font-size: xx-large;
+}
+
+.project_block {
+	border-style: double;
+	border-width: 1vw;
+	border-color: #b30000;
+	border-radius: 3vw;
+	margin: 2vh;
+}
+
+div.project_title {
+	
+}
+
+table.project_title {
+	margin: 1vh 0vw;
+}
+
+tr.project_title {
+	
+}
+
+th.project_title {
+	text-align: left;
+	position: relative;
+	left: 1.8vw;
+	top: 0vh;
+	margin: 1vh 5vw;
+}
+
+td.project_title {
+	text-align: right;
+	position: absolute;
+	right: 5vw;
+	margin: 0vh 1vw;
+
+}
+
+.project_description {
+	text-align: left;
+	position: relative;
+	left: 2vw;
+}
